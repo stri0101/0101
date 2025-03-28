@@ -1,2 +1,0 @@
-chassis_control:opencv_detection
--DCATKIN_DEVEL_PREFIX=/home/jetson/Desktop/ai_control-FULL-3.0/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/Desktop/ai_control-FULL-3.0/install -G Unix Makefiles
